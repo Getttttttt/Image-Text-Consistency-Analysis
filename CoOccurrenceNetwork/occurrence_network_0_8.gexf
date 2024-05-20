@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-05-20">
+    <creator>NetworkX 2.8.8</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="person" label="person" />
+      <node id="bicycle" label="bicycle" />
+      <node id="car" label="car" />
+      <node id="motorcycle" label="motorcycle" />
+      <node id="airplane" label="airplane" />
+      <node id="bus" label="bus" />
+      <node id="train" label="train" />
+      <node id="truck" label="truck" />
+      <node id="boat" label="boat" />
+      <node id="traffic_light" label="traffic_light" />
+      <node id="fire_hydrant" label="fire_hydrant" />
+      <node id="stop_sign" label="stop_sign" />
+      <node id="parking_meter" label="parking_meter" />
+      <node id="bench" label="bench" />
+      <node id="bird" label="bird" />
+      <node id="cat" label="cat" />
+      <node id="dog" label="dog" />
+      <node id="horse" label="horse" />
+      <node id="sheep" label="sheep" />
+      <node id="cow" label="cow" />
+      <node id="elephant" label="elephant" />
+      <node id="bear" label="bear" />
+      <node id="zebra" label="zebra" />
+      <node id="giraffe" label="giraffe" />
+      <node id="backpack" label="backpack" />
+      <node id="umbrella" label="umbrella" />
+      <node id="handbag" label="handbag" />
+      <node id="tie" label="tie" />
+      <node id="suitcase" label="suitcase" />
+      <node id="frisbee" label="frisbee" />
+      <node id="skis" label="skis" />
+      <node id="snowboard" label="snowboard" />
+      <node id="sports_ball" label="sports_ball" />
+      <node id="kite" label="kite" />
+      <node id="baseball_bat" label="baseball_bat" />
+      <node id="baseball_glove" label="baseball_glove" />
+      <node id="skateboard" label="skateboard" />
+      <node id="surfboard" label="surfboard" />
+      <node id="tennis_racket" label="tennis_racket" />
+      <node id="bottle" label="bottle" />
+      <node id="wine_glass" label="wine_glass" />
+      <node id="cup" label="cup" />
+      <node id="fork" label="fork" />
+      <node id="knife" label="knife" />
+      <node id="spoon" label="spoon" />
+      <node id="bowl" label="bowl" />
+      <node id="banana" label="banana" />
+      <node id="apple" label="apple" />
+      <node id="sandwich" label="sandwich" />
+      <node id="orange" label="orange" />
+      <node id="broccoli" label="broccoli" />
+      <node id="carrot" label="carrot" />
+      <node id="hot_dog" label="hot_dog" />
+      <node id="pizza" label="pizza" />
+      <node id="donut" label="donut" />
+      <node id="cake" label="cake" />
+      <node id="chair" label="chair" />
+      <node id="couch" label="couch" />
+      <node id="potted_plant" label="potted_plant" />
+      <node id="bed" label="bed" />
+      <node id="dining_table" label="dining_table" />
+      <node id="toilet" label="toilet" />
+      <node id="tv" label="tv" />
+      <node id="laptop" label="laptop" />
+      <node id="mouse" label="mouse" />
+      <node id="remote" label="remote" />
+      <node id="keyboard" label="keyboard" />
+      <node id="cell_phone" label="cell_phone" />
+      <node id="microwave" label="microwave" />
+      <node id="oven" label="oven" />
+      <node id="toaster" label="toaster" />
+      <node id="sink" label="sink" />
+      <node id="refrigerator" label="refrigerator" />
+      <node id="book" label="book" />
+      <node id="clock" label="clock" />
+      <node id="vase" label="vase" />
+      <node id="scissors" label="scissors" />
+      <node id="teddy_bear" label="teddy_bear" />
+      <node id="hair_drier" label="hair_drier" />
+      <node id="toothbrush" label="toothbrush" />
+    </nodes>
+    <edges>
+      <edge source="person" target="bicycle" id="0" />
+      <edge source="person" target="car" id="1" />
+      <edge source="person" target="motorcycle" id="2" />
+      <edge source="person" target="airplane" id="3" />
+      <edge source="person" target="bus" id="4" />
+      <edge source="person" target="train" id="5" />
+      <edge source="person" target="truck" id="6" />
+      <edge source="person" target="boat" id="7" />
+      <edge source="person" target="traffic_light" id="8" />
+      <edge source="person" target="stop_sign" id="9" />
+      <edge source="person" target="bench" id="10" />
+      <edge source="person" target="bird" id="11" />
+      <edge source="person" target="cat" id="12" />
+      <edge source="person" target="dog" id="13" />
+      <edge source="person" target="horse" id="14" />
+      <edge source="person" target="sheep" id="15" />
+      <edge source="person" target="cow" id="16" />
+      <edge source="person" target="elephant" id="17" />
+      <edge source="person" target="bear" id="18" />
+      <edge source="person" target="zebra" id="19" />
+    </edges>
+  </graph>
+</gexf>
