@@ -499,7 +499,7 @@ if __name__ == '__main__':
 
 使用mmlab检测图片示例的demo为：
 
-![image = ](OutputSample\vis\demo.jpg)
+![image = ](./OutputSample/vis/demo.jpg)
 
 生成的对应数据内容为：
 
@@ -515,15 +515,15 @@ mmlab检测图片的示例展示包含多个检测到的物体。生成的数据
 
 阈值为0.2时
 
-![image = ](CoOccurrenceNetwork\CoOccuranceImage\image0_2.png)
+![image = ](./CoOccurrenceNetwork/CoOccuranceImage/image0_2.png)
 
 阈值为0.5时
 
-![image = ](CoOccurrenceNetwork\CoOccuranceImage\image0_5.png)
+![image = ](./CoOccurrenceNetwork/CoOccuranceImage/image0_5.png)
 
 阈值为0.8时
 
-![image = ](CoOccurrenceNetwork\CoOccuranceImage\image0_8.png)
+![image = ](./CoOccurrenceNetwork/CoOccuranceImage/image0_8.png)
 
 当阈值设置为0.2时，共现网络包含了较多的边，显示出多个物体之间的共现关系。此时网络较为复杂，节点之间的连接密集，物体之间的广泛联系，但是可能会引入较多的噪音。当阈值提高到0.5时，网络中的边数量减少，图像中只保留了较强的共现关系。此时的网络更清晰，强调了那些频繁一起出现的物体对。当阈值进一步提高到0.8时，网络变得更加稀疏，仅保留了最强的共现关系。
 
@@ -531,7 +531,7 @@ mmlab检测图片的示例展示包含多个检测到的物体。生成的数据
 
 绘制的散点图为：
 
-![image = ](Consistency\Output.png)
+![image = ](./Consistency/Output.png)
 
 Correlation coefficient: 0.6460, P-value: 0.00049
 
